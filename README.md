@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MRKZYTSZ/Usetopia/releases/latest"><strong>Download the latest release</strong></a>
+  <strong>In development — public downloads will be available when development is complete.</strong>
 </p>
 
 ## About Usetopia
@@ -30,11 +30,10 @@ Users can extend the application from **Settings → Add-ons**. Optional service
 
 ## Downloads
 
-Installers and packaged builds are published on the [Releases page](https://github.com/MRKZYTSZ/Usetopia/releases). Each release lists the supported operating systems, installation notes and checksums when available.
+Usetopia is still in development. No packaged releases are currently available.
+The preview was withdrawn; installers will be published on the [Releases page](https://github.com/MRKZYTSZ/Usetopia/releases) after development is complete.
 
-Usetopia is currently in development preview. Platform availability may differ between releases, and iOS packages require the signing or TestFlight method described in the relevant release notes.
-
-## Getting started
+## Getting started after release
 
 1. Download the package for your platform from the latest release.
 2. Install and open Usetopia.
