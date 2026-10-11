@@ -5,51 +5,53 @@
 <h1 align="center">Usetopia</h1>
 
 <p align="center">
-  A smooth, native media player for your own local and remote video library.
+  A smooth, native video player for your own videos, media libraries and Usenet provider.
 </p>
 
 <p align="center">
-  <strong>In development — public downloads will be available when development is complete.</strong>
+  <strong>Coming soon to the App Store, Google Play, the Microsoft Store and Flathub.</strong>
 </p>
 
 ## About Usetopia
 
-Usetopia brings movies, series and personal video files together in a clean cross-platform experience. A fresh installation starts in Lite mode and plays local video files or direct HTTP video links without requiring an account.
+Usetopia plays your own local files, HTTP video links and media libraries in one player built for phones, desktops and TVs. A verified Usetopia account is required; your synced library and settings are end-to-end encrypted, so only your devices can read them.
 
-Users can extend the application from **Settings → Add-ons**. Optional services add catalogs, metadata, subtitles, watch history synchronization and other integrations. The official Usetopia add-on is available at `get.usetopia.com` and unlocks the on-device Usenet features for users who provide their own compatible services.
+Official add-ons from `get.usetopia.com` add title search, posters and ratings, catalogs, subtitles, Trakt and Simkl sync, AI suggestions and the on-device Usenet engine. Usetopia hosts and provides no videos.
+
+## Where to get it
+
+Usetopia is distributed only through:
+
+- **App Store:** iPhone, iPad and Mac.
+- **Google Play:** Android phones, tablets and Android TV.
+- **Microsoft Store:** Windows 10 and 11.
+- **Flathub:** Linux.
+
+There are no direct downloads, and this repository publishes no installers.
+
+## Free and Premium
+
+- **Free:** Defaultarr search and title details, your own videos, the library and viewing progress, profiles and end-to-end encrypted sync.
+- **Usetopia Premium:** every other add-on (Zanzibarr for Usenet, Metadatarr, Catalogarr, Libraryarr, Subtitlarr, Trackarr and Advisarr) on every device and profile of your account. Subscribe in the App Store or Google Play app, or through the web checkout on Windows, Linux and [account.usetopia.com](https://account.usetopia.com).
 
 ## Highlights
 
-- Native applications for macOS, Windows, Android, Android TV, Linux and iOS.
-- One advanced player for local files, remote video links and supported add-on sources.
+- Apps for iPhone, iPad, Mac, Android phones and TVs, Windows and Linux, with TV remote and keyboard control.
+- One player for local files, HTTP links, media libraries (WebDAV, SFTP, FTP, SMB, NFS, Plex, Emby, Jellyfin) and Usenet.
 - Continue Watching, history, favorites, watchlists and personal collections.
-- Movie and series catalogs with posters, summaries, cast, genres and episode browsing.
-- Multiple audio and subtitle tracks, playback speed, keyboard and TV remote controls.
-- Optional OpenSubtitles, Trakt, TMDB, OMDb and Cinemeta integrations.
-- Optional on-device Usenet playback with Newznab and Easynews search support.
+- TrueHD/Atmos, DTS-HD MA, AV1, HDR10 and Dolby Vision playback.
+- Fourteen languages, including right-to-left layouts.
 
-## Downloads
-
-Usetopia is still in development. No packaged releases are currently available.
-The preview was withdrawn; installers will be published on the [Releases page](https://github.com/MRKZYTSZ/Usetopia/releases) after development is complete.
-
-## Getting started after release
-
-1. Download the package for your platform from the latest release.
-2. Install and open Usetopia.
-3. Use **Open file** or **Open link** to play your own video.
-4. Add optional services from **Settings → Add-ons** when you want more features.
-
-Provider credentials and API keys are stored in the operating system's secure storage. They are not bundled with Usetopia.
+Provider credentials and API keys stay in the device's secure storage and are never bundled with Usetopia.
 
 ## Support and legal use
 
-Use [GitHub Issues](https://github.com/MRKZYTSZ/Usetopia/issues) for public bug reports and release feedback. Never include passwords, API keys, provider credentials or private media links in an issue.
+Use [GitHub Issues](https://github.com/MRKZYTSZ/Usetopia/issues) for public bug reports and feedback, or write to support@usetopia.com. Never include passwords, API keys, provider credentials or private media links in an issue.
 
-Usetopia is a media player. Users are responsible for configuring their own services and accessing only content they are authorized to use.
+Usetopia is a media player. Use it only for content you have the right to access. See the [Privacy Policy](https://usetopia.com/privacy/) and the [Terms of Use](https://usetopia.com/terms/).
 
 ## Repository notice
 
-This public repository contains end-user documentation, branding assets and packaged application releases only. Usetopia's source code is maintained privately and is not distributed from this repository.
+This public repository contains end-user information and branding assets only. Usetopia's source code is maintained privately and is not distributed from this repository.
 
 Copyright © 2026 MRKZYTSZ. All rights reserved.
