@@ -32,7 +32,7 @@ There are no direct downloads, and this repository publishes no installers.
 ## Free and Premium
 
 - **Free:** Defaultarr search and title details, your own videos, the library and viewing progress, profiles and end-to-end encrypted sync.
-- **Usetopia Premium:** every other add-on (Zanzibarr for Usenet, Metadatarr, Catalogarr, Libraryarr, Subtitlarr, Trackarr and Advisarr) on every device and profile of your account. Subscribe in the App Store or Google Play app, or through the web checkout on Windows, Linux and [account.usetopia.com](https://account.usetopia.com).
+- **Usetopia Premium:** every other add-on (Zanzibarr for Usenet, Metadatarr, Catalogarr, Libraryarr, Subtitlarr, Trackarr and Advisarr) on every device and profile of your account: US$2.99 a month, US$19.99 a year or US$49.99 lifetime. Buy it in the iPhone, iPad, Mac, Apple TV or Android app through the App Store or Google Play; bought with your account, it also works on Windows and Linux.
 
 ## Highlights
 
