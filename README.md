@@ -29,6 +29,10 @@ Usetopia is distributed only through:
 
 There are no direct downloads, and this repository publishes no installers.
 
+A media center and video player for your own files, your Plex, Emby and Jellyfin servers, the shares on your NAS, and a built-in [Usenet and NZB player](https://usetopia.com/usenet-streaming/) that plays NZB releases from your own Usenet provider without downloading them first. Usetopia hosts, sells and includes no movies or shows.
+
+**[Download on the App Store](https://apps.apple.com/app/usetopia/id6821856508)** for iPhone, iPad, Mac and Apple TV · Google Play, Microsoft Store and Flathub coming soon · [usetopia.com](https://usetopia.com)
+
 ## Free and Premium
 
 - **Free:** Defaultarr search and title details, your own videos, the library and viewing progress, profiles and end-to-end encrypted sync.
